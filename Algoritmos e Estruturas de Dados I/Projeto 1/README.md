@@ -1,1 +1,2 @@
 Todos os arquivos usados para a resolução do projeto 1, com a exceção dos arquivos referentes às estruturas de dados utilizadas (que já estão presentes no diretório) e do TAD "item".
+O projeto consisita na resolução do Problema do Cateiro Viajante segundo dois métodos: o primeiro, o método da "Força Bruta" (verificação de todas as possibilidades), bastante ineficiente; o segundo, o método "Branch and Bound".
